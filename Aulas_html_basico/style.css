@@ -1,0 +1,21 @@
+/*
+08/06/2022 - estudos sobre CSS
+# identifica o "id" e ele é unico 
+*/
+#principal{
+    color: #32CD32;
+}
+#titulo{
+    color: #00008B;
+}
+.vermelho_1{
+    color:#800000;
+}
+
+/*
+referente a classes 
+. identifica o "class"
+*/
+.azul_3{
+    color:#4682B4;
+}
