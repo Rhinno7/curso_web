@@ -4,12 +4,14 @@
 */
 #principal{
     color: #32CD32;
+    background-color: #A52A2A;
 }
 #titulo{
     color: #00008B;
 }
 .vermelho_1{
     color:#800000;
+    background-image: url(./background/naruto_logo.png);
 }
 
 /*
@@ -19,3 +21,4 @@ referente a classes
 .azul_3{
     color:#4682B4;
 }
+/*background*/
