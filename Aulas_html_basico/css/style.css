@@ -12,6 +12,10 @@
 .vermelho_1{
     color:#800000;
     background-image: url(./background/naruto_logo.png);
+    background-position: center;
+    background-size:84%;
+    background-repeat: no-repeat;
+    background-attachment: local;
 }
 
 /*
@@ -20,5 +24,13 @@ referente a classes
 */
 .azul_3{
     color:#4682B4;
+    background-color: #00CED1;
 }
 /*background*/
+/*background 13/06/2022*/
+body{
+    background-image: url(./background/itashi_uchiha.png);
+    background-repeat: no-repeat;
+    background-position:initial;
+
+}
