@@ -13,9 +13,9 @@
     color:#800000;
     background-image: url(./background/naruto_logo.png);
     background-position: center;
-    background-size:84%;
+    background-size:50%;
     background-repeat: no-repeat;
-    background-attachment: local;
+    background-attachment: fixed;
 }
 
 /*
@@ -29,8 +29,19 @@ referente a classes
 /*background*/
 /*background 13/06/2022*/
 body{
-    background-image: url(./background/itashi_uchiha.png);
+    /*background-image: url(./background/itashi_uchiha.png);
     background-repeat: no-repeat;
     background-position:initial;
+*/
+}
+/*Estudo sobre a tag DIV 16.06.2022*/
+.image1{
+    background-image: url(./background/itashi_uchiha.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: center;
+    background-attachment:fixed;
+    color: #800000;
+   
 
 }
