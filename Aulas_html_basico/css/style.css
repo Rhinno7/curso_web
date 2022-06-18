@@ -74,3 +74,24 @@ body{
     width: 10pc;
     height: 10pc;
 } 
+
+/*
+************************************
+Estudo sobre DIV
+************************************
+*/
+.div_a{
+    /*background-image: url(./background/star_wars.jpg);*/
+    background-color: #32CD32;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    font-weight: bold;
+    color: #ffffff;
+}
+.div_b{
+    background-image: url(./background/3d_div.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
