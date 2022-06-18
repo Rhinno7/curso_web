@@ -94,4 +94,17 @@ Estudo sobre DIV
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
+    background-attachment: fixed;
 }
+/*Aula sobre medidas relativas 18.06.2022*/
+.container{
+    font-size: 30px;
+}
+.inside{
+    /*medida EM pega a medida da div container ou seja,
+    ela herda a medida da div pai*/
+    font-size: 1em;
+    /*medida interessante é o REM que herda a medida do html raiz
+    */
+}
+/*VER SEMPRE A AULA CSS - UNIDADES DE MEDIDA (REFERÊNCIA)*/ 
